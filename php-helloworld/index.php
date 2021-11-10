@@ -1,3 +1,4 @@
 <?php
-print "ty jo konecne to jede" "\n";
+print "tyvolekarleeeeeeeeeeeeeeeeee" . PHP_VERSION . "\n";
+print "A change is in the air!\n";
 ?>
