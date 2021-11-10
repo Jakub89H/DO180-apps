@@ -1,3 +1,3 @@
 <?php
-print "ty jo konecne to jede . "\n";
+print "ty jo konecne to jede" "\n";
 ?>
